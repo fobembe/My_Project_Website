@@ -65,3 +65,9 @@ This project demonstrated the importance of including exogenous variable(s) in a
 [Second Model](https://github.com/fobembe/My_Project_Website/blob/main/images/sarimax.png)
 
 [Diagnostics](https://github.com/fobembe/My_Project_Website/blob/main/images/diagnostics.png)
+
+
+# [Project 7: Clustering](https://github.com/fobembe/Clustering)
+This project utilizes kmeans clustering and silhoette scores to determine the number of clusters in a given dataset.  The result shows that there are 2 clusters that have no clear distinction between them according to the siloette score.
+
+[clusters](https://github.com/fobembe/My_Project_Website/blob/main/images/clustering.png)
