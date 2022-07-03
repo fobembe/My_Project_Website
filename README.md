@@ -71,3 +71,9 @@ This project demonstrated the importance of including exogenous variable(s) in a
 This project utilizes kmeans clustering and silhoette scores to determine the number of clusters in a given dataset.  The result shows that there are 2 clusters that have no clear distinction between them according to the siloette score.
 
 [clusters](https://github.com/fobembe/My_Project_Website/blob/main/images/clustering.png)
+
+# [Project 8: Claims Analysis Dashboard](https://github.com/fobembe/Healthcare-claims-visual-analytics)
+This project presents a visual analytics of claims using a synthetic data obtained from the CMS website.  The visual analytics is provided as follows:
+
+[Claims dashboard](https://github.com/fobembe/My_Project_Website/blob/main/images/claims.png)
+
