@@ -25,3 +25,19 @@ This project seeks to understand the most important factors influencing the succ
 * Blue collar job
 
 [Visualize the factors](https://github.com/fobembe/My_Project_Website/blob/main/images/Telemarketing.png)
+
+# [Project 4: Predicting Graduation Rates From Amereican Universities](https://github.com/fobembe/College-Performance-Analytics)
+This project utilized ExtraTreeRegressor to analyze important factors predicting graduation rate from colleges.  I utilized the LazyPredict package to test all the candidate algorithms which return ExtraTree as the most efficient. Building a pipeline and GridSearchCV to tune the algorithm, the following factors were found to be important in predicting graduation rate.
+
+AGE_ENTRY = Average Age of Entry
+DEP_STAT_PCT = Percentage of students who are financially Independent
+PCTPELL = Percentage of undergraduate who receive a Pell Grant
+DEP_INC_AVG = Average family income of dependent students in real 2015 dollars
+PELL_EVER = Share of Students who receive Pell Grants while in School
+INC_PCT_LO = Percentage of aided students whose family income is between 0-30,000 dollars
+PREDDEG_Bachelors granting = Predominantly bachelors-degree granting institution
+UGDS_UNKN = Total Share of undergraduate degre-seeking whose race is unknown
+MAIN = Flag for Main campus
+Control_private for-profit = Private for-Profit Institution
+
+[Predicting Factors](https://github.com/fobembe/My_Project_Website/blob/main/images/graduation.png)
