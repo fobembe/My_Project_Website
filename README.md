@@ -9,3 +9,4 @@ This project analyzed factors that causes employee attrition with the aim of rec
 * years working with current manager, 
 * years in current role, etc.
 Hence, to reduce employee attrition, the above-identified factors should be looked into by management of corporate organizations.
+![] (https://github.com/fobembe/My_Project_Website/blob/main/images/employee.png)
