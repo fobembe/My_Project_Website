@@ -77,3 +77,7 @@ This project presents a visual analytics of claims using a synthetic data obtain
 
 [Claims dashboard](https://github.com/fobembe/My_Project_Website/blob/main/images/claims.png)
 
+# [Project 9: Enrollment Dashboard in the State of New York](https://github.com/fobembe/Students-Enrollments-in-New-York-State)
+This project presents a visual analytics of enrollment in the state of New York for students in elementary to high school.
+
+[NY State School Enrollment](https://github.com/fobembe/My_Project_Website/blob/main/images/Enrollment.png)
