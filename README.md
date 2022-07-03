@@ -40,4 +40,4 @@ This project utilized ExtraTreeRegressor to analyze important factors predicting
 * MAIN = Flag for Main campus
 * Control_private for-profit = Private for-Profit Institution
 
-[Predicting Factors](https://github.com/fobembe/My_Project_Website/blob/main/images/graduation.png)
+[Predictive Factors](https://github.com/fobembe/My_Project_Website/blob/main/images/graduation.png)
