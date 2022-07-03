@@ -57,6 +57,9 @@ This project uses the communities' dataset from UCI learning repository to expla
 
 # [Forecating Gross National Income](https://github.com/fobembe/Time-Series-Analysis)
 This project demonstrated the importance of including exogenous variable(s) in a time series forecast.  Two forecast were made, the first one used the Autoregressive model without exogenous variables while the second model incorporated an exogenous variable--consumption.  The second model performed relatively much better than the first one.
+
 [First Model Result](https://github.com/fobembe/My_Project_Website/blob/main/images/sarima.png)
+
 [Second Model](https://github.com/fobembe/My_Project_Website/blob/main/images/sarimax.png)
+
 [Diagnostics](https://github.com/fobembe/My_Project_Website/blob/main/images/diagnostics.png)
