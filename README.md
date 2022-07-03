@@ -44,7 +44,7 @@ This project utilized ExtraTreeRegressor to analyze important factors predicting
 
 
 # [Project 5: Predicting determinants of crimes in US Communities](https://github.com/fobembe/Community_Crime_Analytics)
-This project uses the communities' dataset from UCI learning repository to explain factors responsible for crimes in many US communities. The data contains 2215 instances with 147 records. We selected 20 variables after dropping variables we feel are correlated to one another. For instance, reporting number of people under poverty and percentage of people living under poverty essentially are quantifying thesame thing, in such situations, we stick to only 1 of the variables, preferably percentage measures.  The following factors were predicted as causing crimes.
+This project uses the communities' dataset from UCI learning repository to explain factors responsible for crimes in many US communities. The data contains 2215 instances with 147 records. We selected 20 variables after dropping correlated ones. For instance, reporting number of people under poverty and percentage of people living under poverty essentially are quantifying thesame thing, in such situations, we stick to only 1 of the variables, preferably percentage measures.  The following factors were predicted as causing crimes.
 
 * Total Percentage of People divorced 
 * Proportion of the population living below poverty line. 
